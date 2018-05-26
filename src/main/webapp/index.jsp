@@ -2,7 +2,7 @@
 <html>
  
    <head> 
-      <title>HTML Inline avinash</title> 
+      <title>HTML Inline vijay</title> 
    </head>
  
    <body> 
