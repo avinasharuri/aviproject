@@ -2,7 +2,7 @@
 <html>
  
    <head> 
-      <title>HTML Inline CSS</title> 
+      <title>HTML Inline avi</title> 
    </head>
  
    <body> 
