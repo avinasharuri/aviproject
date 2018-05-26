@@ -2,7 +2,7 @@
 <html>
  
    <head> 
-      <title>HTML Inline vijay bro sanjay</title> 
+      <title>HTML vijay bro sanjay</title> 
    </head>
  
    <body> 
