@@ -2,7 +2,7 @@
 <html>
  
    <head> 
-      <title>HTML vijay bro sanjay</title> 
+      <title>AvinashSanjayVijay</title> 
    </head>
  
    <body> 
