@@ -2,7 +2,7 @@
 <html>
  
    <head> 
-      <title>HTML Inline avi</title> 
+      <title>HTML Inline avinash</title> 
    </head>
  
    <body> 
